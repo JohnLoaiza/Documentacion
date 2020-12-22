@@ -1,0 +1,8 @@
+Las funciones transaccionales se encuentran en:
+
+
+Validacion_telefono.dart   Lineas: 222-335-466
+
+Ingreso.dart               Lineas: 215
+
+Registro.dart              Lineas: 500
